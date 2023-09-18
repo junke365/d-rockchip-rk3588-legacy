@@ -1,1 +1,0 @@
-cmd_drivers/usb/typec/altmodes/built-in.a := rm -f drivers/usb/typec/altmodes/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/usb/typec/altmodes/built-in.a drivers/usb/typec/altmodes/displayport.o

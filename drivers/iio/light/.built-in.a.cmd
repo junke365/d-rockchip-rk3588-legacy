@@ -1,1 +1,0 @@
-cmd_drivers/iio/light/built-in.a := rm -f drivers/iio/light/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/iio/light/built-in.a drivers/iio/light/isl29018.o drivers/iio/light/tsl2563.o drivers/iio/light/tsl2583.o

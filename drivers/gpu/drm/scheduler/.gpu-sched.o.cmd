@@ -1,1 +1,0 @@
-cmd_drivers/gpu/drm/scheduler/gpu-sched.o := aarch64-none-linux-gnu-ld -EL  -maarch64elf -z noexecstack   -r -o drivers/gpu/drm/scheduler/gpu-sched.o drivers/gpu/drm/scheduler/sched_main.o drivers/gpu/drm/scheduler/sched_fence.o drivers/gpu/drm/scheduler/sched_entity.o

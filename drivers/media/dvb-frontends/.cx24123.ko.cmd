@@ -1,1 +1,0 @@
-cmd_drivers/media/dvb-frontends/cx24123.ko := aarch64-none-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/cx24123.ko drivers/media/dvb-frontends/cx24123.o drivers/media/dvb-frontends/cx24123.mod.o;  true

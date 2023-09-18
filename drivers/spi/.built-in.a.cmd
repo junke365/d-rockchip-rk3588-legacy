@@ -1,1 +1,0 @@
-cmd_drivers/spi/built-in.a := rm -f drivers/spi/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/spi/built-in.a drivers/spi/spi.o drivers/spi/spi-mem.o drivers/spi/spidev.o drivers/spi/spi-bitbang.o drivers/spi/spi-rockchip.o

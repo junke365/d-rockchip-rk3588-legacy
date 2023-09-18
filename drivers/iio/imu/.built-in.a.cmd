@@ -1,1 +1,0 @@
-cmd_drivers/iio/imu/built-in.a := rm -f drivers/iio/imu/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/iio/imu/built-in.a drivers/iio/imu/bmi160/built-in.a drivers/iio/imu/inv_icm42600/built-in.a drivers/iio/imu/inv_mpu6050/built-in.a drivers/iio/imu/st_lsm6dsx/built-in.a

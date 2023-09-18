@@ -1,1 +1,0 @@
-cmd_drivers/net/can/built-in.a := rm -f drivers/net/can/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/net/can/built-in.a drivers/net/can/dev/built-in.a drivers/net/can/rcar/built-in.a drivers/net/can/spi/built-in.a drivers/net/can/usb/built-in.a drivers/net/can/softing/built-in.a

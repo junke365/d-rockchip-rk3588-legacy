@@ -1,1 +1,0 @@
-cmd_drivers/nvmem/built-in.a := rm -f drivers/nvmem/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/nvmem/built-in.a drivers/nvmem/core.o drivers/nvmem/rockchip-efuse.o drivers/nvmem/rockchip-otp.o

@@ -1,1 +1,0 @@
-cmd_drivers/media/tuners/si2157.ko := aarch64-none-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o drivers/media/tuners/si2157.ko drivers/media/tuners/si2157.o drivers/media/tuners/si2157.mod.o;  true

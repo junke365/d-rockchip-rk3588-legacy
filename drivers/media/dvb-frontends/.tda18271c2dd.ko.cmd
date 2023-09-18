@@ -1,1 +1,0 @@
-cmd_drivers/media/dvb-frontends/tda18271c2dd.ko := aarch64-none-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/tda18271c2dd.ko drivers/media/dvb-frontends/tda18271c2dd.o drivers/media/dvb-frontends/tda18271c2dd.mod.o;  true

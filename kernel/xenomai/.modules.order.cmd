@@ -1,1 +1,0 @@
-cmd_kernel/xenomai/modules.order := {   cat kernel/xenomai/pipeline/modules.order;   cat kernel/xenomai/rtdm/modules.order;   cat kernel/xenomai/posix/modules.order; :; } | awk '!x[$$0]++' - > kernel/xenomai/modules.order

@@ -1,6 +1,0 @@
-net/netfilter/xt_ipvs.ko
-net/netfilter/ipvs/ip_vs.ko
-net/netfilter/ipvs/ip_vs_rr.ko
-net/ipv4/ip_tunnel.ko
-net/ipv4/udp_tunnel.ko
-net/ipv6/ip6_udp_tunnel.ko

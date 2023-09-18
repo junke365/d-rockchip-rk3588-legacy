@@ -1,1 +1,0 @@
-cmd_drivers/media/dvb-frontends/zd1301_demod.ko := aarch64-none-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/zd1301_demod.ko drivers/media/dvb-frontends/zd1301_demod.o drivers/media/dvb-frontends/zd1301_demod.mod.o;  true
