@@ -1,0 +1,30 @@
+!<thin>
+//                                              210       `
+core.o/
+dummy.o/
+fixed-helper.o/
+helpers.o/
+devres.o/
+of_regulator.o/
+fixed.o/
+act8865-regulator.o/
+fan53555.o/
+gpio-regulator.o/
+pwm-regulator.o/
+rk808-regulator.o/
+tps6586x-regulator.o/
+tps65132-regulator.o/
+/0              0           0     0     644     139264    `
+/8              0           0     0     644     5096      `
+/17             0           0     0     644     2504      `
+/33             0           0     0     644     27520     `
+/44             0           0     0     644     17512     `
+/54             0           0     0     644     14088     `
+/70             0           0     0     644     9392      `
+/79             0           0     0     644     31464     `
+/100            0           0     0     644     12072     `
+/112            0           0     0     644     10632     `
+/130           /0           0     0     644     11784     `
+/147            0           0     0     644     48792     `
+/166            0           0     0     644     21432     `
+/188            0           0     0     644     9928      `

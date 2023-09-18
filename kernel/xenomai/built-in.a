@@ -1,0 +1,97 @@
+!<thin>
+//                                              628       `
+pipeline/init.o/
+pipeline/kevents.o/
+pipeline/sched.o/
+pipeline/tick.o/
+pipeline/syscall.o/
+pipeline/intr.o/
+arith.o/
+bufd.o/
+clock.o/
+heap.o/
+init.o/
+lock.o/
+registry.o/
+sched-idle.o/
+sched-rt.o/
+sched.o/
+select.o/
+synch.o/
+thread.o/
+time.o/
+timer.o/
+tree.o/
+vfile.o/
+procfs.o/
+rtdm/core.o/
+rtdm/device.o/
+rtdm/drvlib.o/
+rtdm/fd.o/
+rtdm/wrappers.o/
+posix/clock.o/
+posix/cond.o/
+posix/corectl.o/
+posix/event.o/
+posix/io.o/
+posix/memory.o/
+posix/monitor.o/
+posix/mqueue.o/
+posix/mutex.o/
+posix/nsem.o/
+posix/process.o/
+posix/sched.o/
+posix/sem.o/
+posix/signal.o/
+posix/syscall.o/
+posix/thread.o/
+posix/timer.o/
+posix/timerfd.o/
+
+/0              0           0     0     644     2504      `
+/17             0           0     0     644     7648      `
+/37             0           0     0     644     4256      `
+/55             0           0     0     644     6464      `
+/72             0           0     0     644     1960      `
+/92             0           0     0     644     8736      `
+/109            0           0     0     644     2496      `
+/118            0           0     0     644     9600      `
+/126            0           0     0     644     21696     `
+/135            0           0     0     644     14832     `
+/143            0           0     0     644     14552     `
+/151            0           0     0     644     4104      `
+/159            0           0     0     644     20304     `
+/171            0           0     0     644     2632      `
+/185            0           0     0     644     7896      `
+/197            0           0     0     644     130992    `
+/206            0           0     0     644     12224     `
+/216            0           0     0     644     20152     `
+/225            0           0     0     644     48776     `
+/235            0           0     0     644     2752      `
+/243            0           0     0     644     16288     `
+/252            0           0     0     644     1976      `
+/260            0           0     0     644     19128     `
+/269            0           0     0     644     6656      `
+/279            0           0     0     644     69896     `
+/292            0           0     0     644     15856     `
+/307            0           0     0     644     48784     `
+/322            0           0     0     644     33968     `
+/333            0           0     0     644     1152      `
+/350            0           0     0     644     16168     `
+/365            0           0     0     644     11192     `
+/379            0           0     0     644     6592      `
+/396            0           0     0     644     11224     `
+/411            0           0     0     644     9288      `
+/423            0           0     0     644     11320     `
+/439            0           0     0     644     10040     `
+/456            0           0     0     644     19360     `
+/472            0           0     0     644     10696     `
+/487            0           0     0     644     9528      `
+/501            0           0     0     644     26744     `
+/518            0           0     0     644     11944     `
+/533            0           0     0     644     17216     `
+/546            0           0     0     644     17560     `
+/562            0           0     0     644     23088     `
+/579            0           0     0     644     167720    `
+/595            0           0     0     644     10584     `
+/610            0           0     0     644     9864      `

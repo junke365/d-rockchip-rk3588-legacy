@@ -1,0 +1,31 @@
+rk3588-orangepi-5-plus.o: \
+ arch/arm64/boot/dts/rockchip/rk3588-orangepi-5-plus.dts \
+ arch/arm64/boot/dts/rockchip/rk3588-orangepi-5-plus.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/usb/pd.h \
+ arch/arm64/boot/dts/rockchip/rk3588.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/phy/phy-snps-pcie3.h \
+ arch/arm64/boot/dts/rockchip/rk3588s.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/clock/rk3588-cru.h \
+ scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h \
+ scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+ scripts/dtc/include-prefixes/dt-bindings/phy/phy.h \
+ scripts/dtc/include-prefixes/dt-bindings/power/rk3588-power.h \
+ scripts/dtc/include-prefixes/dt-bindings/soc/rockchip,boot-mode.h \
+ scripts/dtc/include-prefixes/dt-bindings/soc/rockchip-system-status.h \
+ scripts/dtc/include-prefixes/dt-bindings/suspend/rockchip-rk3588.h \
+ scripts/dtc/include-prefixes/dt-bindings/thermal/thermal.h \
+ arch/arm64/boot/dts/rockchip/rk3588s-pinctrl.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/pinctrl/rockchip.h \
+ arch/arm64/boot/dts/rockchip/rockchip-pinconf.dtsi \
+ arch/arm64/boot/dts/rockchip/rk3588-vccio3-pinctrl.dtsi \
+ arch/arm64/boot/dts/rockchip/rk3588-orangepi.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/gpio/gpio.h \
+ scripts/dtc/include-prefixes/dt-bindings/pwm/pwm.h \
+ scripts/dtc/include-prefixes/dt-bindings/input/rk-input.h \
+ scripts/dtc/include-prefixes/dt-bindings/display/drm_mipi_dsi.h \
+ scripts/dtc/include-prefixes/dt-bindings/display/rockchip_vop.h \
+ scripts/dtc/include-prefixes/dt-bindings/sensor-dev.h \
+ arch/arm64/boot/dts/rockchip/rk3588-rk806-single.dtsi \
+ arch/arm64/boot/dts/rockchip/rk3588-linux.dtsi \
+ arch/arm64/boot/dts/rockchip/rk3588-orangepi-5-plus-lcd.dtsi \
+ arch/arm64/boot/dts/rockchip/rk3588-orangepi-5-plus-camera1.dtsi

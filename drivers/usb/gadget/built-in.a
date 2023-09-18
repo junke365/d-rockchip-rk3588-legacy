@@ -1,0 +1,41 @@
+!<thin>
+//                                              326       `
+usbstring.o/
+config.o/
+epautoconf.o/
+composite.o/
+functions.o/
+configfs.o/
+u_f.o/
+udc/core.o/
+udc/trace.o/
+function/f_acm.o/
+function/u_serial.o/
+function/f_mass_storage.o/
+function/storage_common.o/
+function/f_fs.o/
+function/f_uvc.o/
+function/uvc_queue.o/
+function/uvc_v4l2.o/
+function/uvc_video.o/
+function/uvc_configfs.o/
+
+/0              0           0     0     644     3448      `
+/13             0           0     0     644     7936      `
+/23             0           0     0     644     5064      `
+/37             0           0     0     644     33168     `
+/50             0           0     0     644     7656      `
+/63             0           0     0     644     43728     `
+/75             0           0     0     644     2704      `
+/82             0           0     0     644     57464     `
+/94             0           0     0     644     37392     `
+/107            0           0     0     644     14072     `
+/125            0           0     0     644     24344     `
+/146            0           0     0     644     49984     `
+/173            0           0     0     644     25776     `
+/200            0           0     0     644     48168     `
+/217            0           0     0     644     19960     `
+/235            0           0     0     644     6640      `
+/257            0           0     0     644     9264      `
+/278            0           0     0     644     7144      `
+/300            0           0     0     644     64344     `

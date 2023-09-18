@@ -1,0 +1,9 @@
+!<thin>
+//                                              62        `
+rockchip/grf.o/
+rockchip/io-domain.o/
+rockchip/pm_domains.o/
+
+/0              0           0     0     644     6696      `
+/16             0           0     0     644     15632     `
+/38             0           0     0     644     22600     `

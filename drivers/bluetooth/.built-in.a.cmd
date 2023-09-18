@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/built-in.a := rm -f drivers/bluetooth/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/bluetooth/built-in.a drivers/bluetooth/hci_vhci.o drivers/bluetooth/hci_ldisc.o drivers/bluetooth/hci_h4.o drivers/bluetooth/hci_ath.o drivers/bluetooth/bfusb.o drivers/bluetooth/btmrvl_main.o drivers/bluetooth/btmrvl_debugfs.o drivers/bluetooth/btmrvl_sdio.o

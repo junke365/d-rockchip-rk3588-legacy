@@ -1,0 +1,1 @@
+cmd_vmlinux := sh scripts/link-vmlinux.sh "aarch64-none-linux-gnu-ld" "-EL  -maarch64elf -z noexecstack" "--no-undefined -X -shared -Bsymbolic -z notext  --no-apply-dynamic-relocs --fix-cortex-a53-843419 --build-id=sha1 --orphan-handling=warn";  true

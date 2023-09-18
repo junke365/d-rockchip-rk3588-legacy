@@ -1,0 +1,23 @@
+!<thin>
+//                                              252       `
+reset/gpio-poweroff.o/
+reset/gpio-restart.o/
+reset/reboot-mode.o/
+reset/syscon-reboot-mode.o/
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_hwmon.o/
+supply/sbs-battery.o/
+supply/gpio-charger.o/
+supply/bq24735-charger.o/
+
+/0             /0           0     0     644     7848      `
+/23             0           0     0     644     7936      `
+/45             0           0     0     644     8272      `
+/66             0           0     0     644     6056      `
+/94             0           0     0     644     45520     `
+/122            0           0     0     644     19584     `
+/151            0           0     0     644     6872      `
+/180            0           0     0     644     19864     `
+/202            0           0     0     644     11456     `
+/225            0           0     0     644     12464     `

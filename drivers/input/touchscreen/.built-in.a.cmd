@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.a := rm -f drivers/input/touchscreen/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/input/touchscreen/built-in.a drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/atmel_mxt_ts.o drivers/input/touchscreen/elants_i2c.o drivers/input/touchscreen/usbtouchscreen.o

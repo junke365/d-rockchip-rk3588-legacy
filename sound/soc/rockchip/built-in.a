@@ -1,0 +1,14 @@
+!<thin>
+//                                              106       `
+rockchip_i2s.o/
+rockchip_pcm.o/
+rockchip_pdm.o/
+rockchip_spdif.o/
+rockchip_max98090.o/
+rockchip_rt5645.o/
+/0              0           0     0     644     15912     `
+/16             0           0     0     644     3480      `
+/32             0           0     0     644     14632     `
+/48             0           0     0     644     12984     `
+/66             0           0     0     644     23632     `
+/87             0           0     0     644     13144     `

@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/usb-storage.ko := aarch64-none-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o drivers/usb/storage/usb-storage.ko drivers/usb/storage/usb-storage.o drivers/usb/storage/usb-storage.mod.o;  true
