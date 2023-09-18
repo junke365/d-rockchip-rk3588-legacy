@@ -1,0 +1,1 @@
+cmd_kernel/xenomai/rtdm/built-in.a := rm -f kernel/xenomai/rtdm/built-in.a; aarch64-none-linux-gnu-ar cDPrST kernel/xenomai/rtdm/built-in.a kernel/xenomai/rtdm/core.o kernel/xenomai/rtdm/device.o kernel/xenomai/rtdm/drvlib.o kernel/xenomai/rtdm/fd.o kernel/xenomai/rtdm/wrappers.o

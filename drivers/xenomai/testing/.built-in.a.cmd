@@ -1,0 +1,1 @@
+cmd_drivers/xenomai/testing/built-in.a := rm -f drivers/xenomai/testing/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/xenomai/testing/built-in.a drivers/xenomai/testing/timerbench.o drivers/xenomai/testing/switchtest.o drivers/xenomai/testing/heapcheck.o

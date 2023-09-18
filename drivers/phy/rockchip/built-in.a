@@ -1,0 +1,18 @@
+!<thin>
+//                                              184       `
+phy-rockchip-dp.o/
+phy-rockchip-emmc.o/
+phy-rockchip-inno-dsidphy.o/
+phy-rockchip-inno-hdmi.o/
+phy-rockchip-inno-usb2.o/
+phy-rockchip-pcie.o/
+phy-rockchip-typec.o/
+phy-rockchip-usb.o/
+/0              0           0     0     644     7424      `
+/19             0           0     0     644     9568      `
+/40             0           0     0     644     11640     `
+/69             0           0     0     644     22912     `
+/95             0           0     0     644     29832     `
+/121            0           0     0     644     11688     `
+/142            0           0     0     644     19992     `
+/164            0           0     0     644     15336     `

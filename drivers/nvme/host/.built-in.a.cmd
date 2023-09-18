@@ -1,0 +1,1 @@
+cmd_drivers/nvme/host/built-in.a := rm -f drivers/nvme/host/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/nvme/host/built-in.a drivers/nvme/host/core.o drivers/nvme/host/trace.o drivers/nvme/host/pci.o

@@ -1,0 +1,56 @@
+!<thin>
+//                                              570       `
+dm.o/
+dm-table.o/
+dm-target.o/
+dm-linear.o/
+dm-stripe.o/
+dm-ioctl.o/
+dm-io.o/
+dm-kcopyd.o/
+dm-sysfs.o/
+dm-stats.o/
+dm-rq.o/
+dm-builtin.o/
+dm-bufio.o/
+dm-bio-prison-v1.o/
+dm-bio-prison-v2.o/
+persistent-data/dm-array.o/
+persistent-data/dm-bitset.o/
+persistent-data/dm-block-manager.o/
+persistent-data/dm-space-map-common.o/
+persistent-data/dm-space-map-disk.o/
+persistent-data/dm-space-map-metadata.o/
+persistent-data/dm-transaction-manager.o/
+persistent-data/dm-btree.o/
+persistent-data/dm-btree-remove.o/
+persistent-data/dm-btree-spine.o/
+dm-thin.o/
+dm-thin-metadata.o/
+/0              0           0     0     644     65136     `
+/6              0           0     0     644     36168     `
+/18             0           0     0     644     7784      `
+/31             0           0     0     644     5232      `
+/44             0           0     0     644     9776      `
+/57             0           0     0     644     37328     `
+/69             0           0     0     644     12288     `
+/78             0           0     0     644     18752     `
+/91             0           0     0     644     5800      `
+/103            0           0     0     644     22384     `
+/115            0           0     0     644     14312     `
+/124            0           0     0     644     2480      `
+/138            0           0     0     644     53536     `
+/150            0           0     0     644     20064     `
+/170            0           0     0     644     13320     `
+/190            0           0     0     644     22872     `
+/218            0           0     0     644     14192     `
+/247            0           0     0     644     16464     `
+/283            0           0     0     644     16704     `
+/322            0           0     0     644     7816      `
+/359            0           0     0     644     12112     `
+/400            0           0     0     644     15456     `
+/442            0           0     0     644     24384     `
+/470            0           0     0     644     13384     `
+/505            0           0     0     644     9256      `
+/539            0           0     0     644     77736     `
+/550            0           0     0     644     31368     `

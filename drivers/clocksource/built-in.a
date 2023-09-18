@@ -1,0 +1,14 @@
+!<thin>
+//                                              86        `
+timer-of.o/
+timer-probe.o/
+mmio.o/
+timer-rockchip.o/
+arm_arch_timer.o/
+dummy_timer.o/
+/0              0           0     0     644     4672      `
+/12             0           0     0     644     3112      `
+/27             0           0     0     644     12592     `
+/35             0           0     0     644     8752      `
+/53             0           0     0     644     34504     `
+/71             0           0     0     644     3704      `

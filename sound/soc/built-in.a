@@ -1,0 +1,63 @@
+!<thin>
+//                                              582       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-utils.o/
+soc-dai.o/
+soc-component.o/
+soc-pcm.o/
+soc-devres.o/
+soc-ops.o/
+soc-link.o/
+soc-card.o/
+soc-generic-dmaengine-pcm.o/
+codecs/es8316.o/
+codecs/max98090.o/
+codecs/hdmi-codec.o/
+codecs/rk3328_codec.o/
+codecs/rl6231.o/
+codecs/rt5616.o/
+codecs/rt5645.o/
+codecs/spdif_receiver.o/
+codecs/spdif_transmitter.o/
+codecs/ts3a227e.o/
+generic/simple-card-utils.o/
+generic/simple-card.o/
+rockchip/rockchip_i2s.o/
+rockchip/rockchip_pcm.o/
+rockchip/rockchip_pdm.o/
+rockchip/rockchip_spdif.o/
+rockchip/rockchip_max98090.o/
+rockchip/rockchip_rt5645.o/
+
+/0              0           0     0     644     105400    `
+/12             0           0     0     644     86320     `
+/24             0           0     0     644     15512     `
+/36             0           0     0     644     8848      `
+/49             0           0     0     644     25816     `
+/60            /0           0     0     644     29624     `
+/77             0           0     0     644     49016     `
+/88             0           0     0     644     7176      `
+/102            0           0     0     644     22992     `
+/113            0           0     0     644     6960      `
+/125            0           0     0     644     8808      `
+/137            0           0     0     644     13664     `
+/166            0           0     0     644     48616     `
+/183            0           0     0     644     125184    `
+/202            0           0     0     644     15664     `
+/223            0           0     0     644     13000     `
+/246            0           0     0     644     6960      `
+/263            0           0     0     644     65720     `
+/280            0           0     0     644     211496    `
+/297            0           0     0     644     6336      `
+/322            0           0     0     644     6424      `
+/350            0           0     0     644     10384     `
+/369            0           0     0     644     24752     `
+/398            0           0     0     644     15560     `
+/421            0           0     0     644     15912     `
+/446            0           0     0     644     3480      `
+/471            0           0     0     644     14632     `
+/496            0           0     0     644     12984     `
+/523            0           0     0     644     23632     `
+/553            0           0     0     644     13144     `

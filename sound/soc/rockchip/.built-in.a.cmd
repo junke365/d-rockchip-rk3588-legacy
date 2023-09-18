@@ -1,0 +1,1 @@
+cmd_sound/soc/rockchip/built-in.a := rm -f sound/soc/rockchip/built-in.a; aarch64-none-linux-gnu-ar cDPrST sound/soc/rockchip/built-in.a sound/soc/rockchip/rockchip_i2s.o sound/soc/rockchip/rockchip_pcm.o sound/soc/rockchip/rockchip_pdm.o sound/soc/rockchip/rockchip_spdif.o sound/soc/rockchip/rockchip_max98090.o sound/soc/rockchip/rockchip_rt5645.o
