@@ -1,1 +1,0 @@
-cmd_drivers/leds/built-in.a := rm -f drivers/leds/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/leds/built-in.a drivers/leds/led-core.o drivers/leds/led-class.o drivers/leds/leds-gpio.o drivers/leds/leds-is31fl32xx.o

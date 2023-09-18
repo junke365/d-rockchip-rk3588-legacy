@@ -1,1 +1,0 @@
-cmd_drivers/usb/gadget/udc/built-in.a := rm -f drivers/usb/gadget/udc/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/usb/gadget/udc/built-in.a drivers/usb/gadget/udc/core.o drivers/usb/gadget/udc/trace.o

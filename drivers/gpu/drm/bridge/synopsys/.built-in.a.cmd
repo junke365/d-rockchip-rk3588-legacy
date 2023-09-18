@@ -1,1 +1,0 @@
-cmd_drivers/gpu/drm/bridge/synopsys/built-in.a := rm -f drivers/gpu/drm/bridge/synopsys/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/gpu/drm/bridge/synopsys/built-in.a drivers/gpu/drm/bridge/synopsys/dw-hdmi.o drivers/gpu/drm/bridge/synopsys/dw-hdmi-i2s-audio.o drivers/gpu/drm/bridge/synopsys/dw-hdmi-cec.o drivers/gpu/drm/bridge/synopsys/dw-mipi-dsi.o

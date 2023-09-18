@@ -1,1 +1,0 @@
-cmd_drivers/pci/controller/dwc/built-in.a := rm -f drivers/pci/controller/dwc/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/pci/controller/dwc/built-in.a drivers/pci/controller/dwc/pcie-al.o drivers/pci/controller/dwc/pcie-hisi.o

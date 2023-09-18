@@ -1,9 +1,0 @@
-!<thin>
-//                                              42        `
-timerbench.o/
-switchtest.o/
-heapcheck.o/
-
-/0              0           0     0     644     12584     `
-/14             0           0     0     644     15640     `
-/28             0           0     0     644     12048     `

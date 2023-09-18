@@ -1,1 +1,0 @@
-cmd_drivers/hid/i2c-hid/built-in.a := rm -f drivers/hid/i2c-hid/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/hid/i2c-hid/built-in.a drivers/hid/i2c-hid/i2c-hid-core.o drivers/hid/i2c-hid/i2c-hid-dmi-quirks.o

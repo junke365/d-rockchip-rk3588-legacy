@@ -1,1 +1,0 @@
-cmd_drivers/media/dvb-frontends/ves1820.ko := aarch64-none-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/ves1820.ko drivers/media/dvb-frontends/ves1820.o drivers/media/dvb-frontends/ves1820.mod.o;  true

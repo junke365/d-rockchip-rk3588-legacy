@@ -1,1 +1,0 @@
-cmd_drivers/media/cec/built-in.a := rm -f drivers/media/cec/built-in.a; aarch64-none-linux-gnu-ar cDPrST drivers/media/cec/built-in.a drivers/media/cec/core/built-in.a drivers/media/cec/i2c/built-in.a drivers/media/cec/platform/built-in.a drivers/media/cec/usb/built-in.a
